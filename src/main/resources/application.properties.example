@@ -1,0 +1,3 @@
+# src/main/resources/application.properties
+nexon.api.key={API-KEY}
+nexon.api.base-url=https://open.api.nexon.com/tfd/v1
